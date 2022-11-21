@@ -89,6 +89,7 @@ body {
     color: white;
     text-align: left;
     padding-left: 2em;
+    margin-top: 0.5em;
 }
 
 .skillsContent{
@@ -334,12 +335,6 @@ transform: scale(1.2);}
 }
 
 
-.contactoContent h2{
-  padding-top: 2em;
-  font-size: 35px;
-  color: #9c9fb4;
-  border: none;
-}
 
 .contactoContent{
   background-color: #05060c;
